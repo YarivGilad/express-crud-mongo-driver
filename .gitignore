@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+docker-compose.yml
+crud-requests-postman.json
+express-mongo-crud.zip
+.env
+MOCK_DATA.json
